@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi, I’m @jordan-castro
 
+I'm a Fullstack developer in the daytime. And on my freetime I develop indie games, tools, and write about Lucid Dreaming.
+
+#### What I'm Working On Currently
+
+* [Pixel Ai Dash]([https://github.com/blueloveTH/pocketpy](https://play.google.com/store/apps/details?id=us.epochtech.pixelaidash&hl=en)) A 2D platformer game where every day there is a new level to explore.
+* [easyjs](https://github.com/jordan-castro/easyjs) A modern scripting programming language to replace JavaScript.
+* [PixelScript](https://github.com/jordan-castro/pixelscript) A multi language scripting runtime for game scripting/modding.
 <!--
 **jordan-castro/jordan-castro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
