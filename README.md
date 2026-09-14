@@ -1,6 +1,6 @@
 ### Hi, I’m @jordan-castro
 
-I'm a Fullstack developer in the daytime. And on my freetime I develop indie games, tools, and write about Lucid Dreaming.
+I'm a Fullstack developer in the daytime. And on my freetime I develop indie games, tools, and write about Hypnosis.
 
 #### What I'm Working On Currently
 
